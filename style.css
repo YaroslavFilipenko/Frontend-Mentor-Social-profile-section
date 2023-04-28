@@ -17,6 +17,11 @@ body {
     background-position: right 65vw bottom 60vh, left 30vw top 20vh;
 }
 
+h2 {
+    font-size: 1.125rem;
+    font-weight: 600;
+}
+
 .main {
     display: flex;
     flex-direction: column;
